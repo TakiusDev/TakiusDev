@@ -6,5 +6,4 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudando **Ciência de Dados / Análise de Dados**
-- 🚀 Sempre buscando melhorar um pouco todo dia
+- 🎓 Estudando **Ciência de Dados
