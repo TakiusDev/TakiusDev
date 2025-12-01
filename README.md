@@ -6,4 +6,4 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudando **Ciência de Dados
+- 🎓 Estudando Ciência de Dados
